@@ -1,0 +1,10 @@
+.github
+.vscode
+.nyc_output
+.idea
+script
+src
+test
+.mocharc.yml
+.prettierrc.yml
+tsconfig.json

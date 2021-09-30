@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "build",
+        "declaration": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "target": "es6",
+        "noImplicitAny": false
+    },
+    "include": ["src/**/*", "test/**/*", "script/**/*"],
+    // "extends": "@tsconfig/recommended/tsconfig.json"
+}
